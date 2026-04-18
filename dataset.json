@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete state-level restaurant data for Alabama. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Alabama, US",
+  "export_job_id": "fabd9666-52d3-4f11-86e4-7f06c19427d1",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 159903,
+  "location_name": "Alabama",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-alabama-us-sample-159903",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/159903/beamstation_159903_restaurants-us-al_SAMPLE_DIST.csv",
+  "sample_pct": 9.33,
+  "sample_records": 1000,
+  "sample_sha256": "f07f597c323e16e72d589986df35d22894aed5dab262cdfb0421b6b6b87487fd",
+  "sample_size_bytes": 2625346,
+  "total_records": 10715,
+  "updated_at": "2026-04-14T20:26:58.861279+00:00"
+}
