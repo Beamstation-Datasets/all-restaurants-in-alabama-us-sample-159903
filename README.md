@@ -1,6 +1,6 @@
 # All Restaurants in Alabama, US
 
-> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+> Free BeamStation sample export with 823 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `159903` |
 | Location | Alabama |
 | Category | Restaurants |
-| Full dataset size | 10,715 records |
-| Free sample size | 1,000 records (9.33%) |
-| Last export | 2026-04-14T20:26:58.861279+00:00 |
+| Full dataset size | 8,231 records |
+| Free sample size | 823 records (10.0%) |
+| Last export | 2026-04-21T22:39:37.369409+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-alabama-us-sample-159903/releases/download/sample-latest/beamstation_159903_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
