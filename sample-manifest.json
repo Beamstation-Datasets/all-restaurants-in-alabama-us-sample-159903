@@ -1,12 +1,12 @@
 {
-  "export_job_id": "242eb4e5-dfc7-4d0b-9c7f-840bb222d7d5",
+  "export_job_id": "404e0a86-55e7-44ed-abe5-72bc8a5bc156",
   "id_short": 159903,
-  "published_at": "2026-04-22T07:08:26Z",
+  "published_at": "2026-04-29T07:22:21Z",
   "repo_name": "all-restaurants-in-alabama-us-sample-159903",
   "sample_asset_name": "beamstation_159903_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/159903/beamstation_159903_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 823,
-  "sample_sha256": "21a2909897b2f96a5b5ac0e5f2a532c5ad5b57f72f671dae7a6ea4dde33c6a84",
-  "sample_size_bytes": 2431636,
-  "total_records": 8231
+  "sample_records": 1000,
+  "sample_sha256": "42c16922d854a6f02d3f59e609535fd314e7f571fdb471e256fd6eaba1154d7a",
+  "sample_size_bytes": 2742980,
+  "total_records": 10810
 }
