@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete state-level restaurant data for Alabama. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Alabama, US",
-  "export_job_id": "404e0a86-55e7-44ed-abe5-72bc8a5bc156",
+  "export_job_id": "203f2f2e-52a9-444e-92d6-d8b8741bf936",
   "github_org": "Beamstation-Datasets",
   "id_short": 159903,
   "location_name": "Alabama",
   "location_type": "state",
   "repo_name": "all-restaurants-in-alabama-us-sample-159903",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/159903/beamstation_159903_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_pct": 9.25,
+  "sample_pct": 8.4,
   "sample_records": 1000,
-  "sample_sha256": "42c16922d854a6f02d3f59e609535fd314e7f571fdb471e256fd6eaba1154d7a",
-  "sample_size_bytes": 2742980,
-  "total_records": 10810,
-  "updated_at": "2026-04-29T01:48:35.236791+00:00"
+  "sample_sha256": "6c199f031995b949ed014db35e1a1bb915a944640839918fc58499e191d894f8",
+  "sample_size_bytes": 2929858,
+  "total_records": 11904,
+  "updated_at": "2026-05-08T11:51:26.812500+00:00"
 }
