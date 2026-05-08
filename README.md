@@ -9,9 +9,9 @@
 | Dataset ID | `159903` |
 | Location | Alabama |
 | Category | Restaurants |
-| Full dataset size | 10,810 records |
-| Free sample size | 1,000 records (9.25%) |
-| Last export | 2026-04-29T01:48:35.236791+00:00 |
+| Full dataset size | 11,904 records |
+| Free sample size | 1,000 records (8.4%) |
+| Last export | 2026-05-08T11:51:26.812500+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-alabama-us-sample-159903/releases/download/sample-latest/beamstation_159903_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
